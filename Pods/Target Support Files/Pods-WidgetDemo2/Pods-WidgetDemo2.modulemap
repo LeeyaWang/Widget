@@ -1,0 +1,6 @@
+framework module Pods_WidgetDemo2 {
+  umbrella header "Pods-WidgetDemo2-umbrella.h"
+
+  export *
+  module * { export * }
+}
